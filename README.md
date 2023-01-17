@@ -4,6 +4,13 @@
 # Introduction
 Proof of concept TRPC project CRUD functionality.
 
+
+#Overview
+
+![trpc_architecture drawio](https://user-images.githubusercontent.com/25275596/212997552-3ef7d77e-4629-444c-91a1-f7afdb0642f3.png)
+
+
+
 # Technologies
 * TypeScript
 * tRPC
