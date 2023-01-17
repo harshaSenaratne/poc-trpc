@@ -12,6 +12,7 @@ Proof of concept TRPC project CRUD functionality.
 
 
 # Technologies
+* NextJS
 * TypeScript
 * tRPC
 * Prisma(Postgres)
